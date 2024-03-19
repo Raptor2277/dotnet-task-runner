@@ -1,0 +1,16 @@
+[
+  {
+    "ScriptName": "script",
+    "ScriptPath": "script.py",
+
+    "OutputSource": "stdout.txt",
+    "OutputType": "text"
+  },
+  {
+    "ScriptName": "createFile",
+    "ScriptPath": "createFile.py",
+
+    "OutputSource": "demofile2.txt",
+    "OutputType": "file"
+  }
+]
